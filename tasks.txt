@@ -1,0 +1,37 @@
+Бинарный поиск
+1)  Дипломы https://acmp.ru/index.asp?main=task&id_task=712
+2)  Ксерокопии https://acmp.ru/index.asp?main=task&id_task=267
+Динамика
+3)  Гвоздики https://acmp.ru/index.asp?main=task&id_task=121
+4)  Максимальная подпоследовательность https://acmp.ru/index.asp?main=task&id_task=122
+5)  Покупка билетов https://acmp.ru/index.asp?main=task&id_task=225
+6)  Минимальная стоимость проезда https://acmp.ru/index.asp?main=task&id_task=332
+7)  Маршрут https://acmp.ru/index.asp?main=task&id_task=368
+8)  Пицца https://acmp.ru/index.asp?main=task&id_task=554
+9)  Садовник-художник https://acmp.ru/index.asp?main=task&id_task=680
+Жадные
+10)  Головоломка https://acmp.ru/index.asp?main=task&id_task=237
+11)  Волосатый бизнес https://acmp.ru/index.asp?main=task&id_task=39
+12)  Вычислительная биология https://acmp.ru/index.asp?main=task&id_task=278
+13)  Код https://acmp.ru/index.asp?main=task&id_task=301
+Сортировки
+14)  Сортировка подсчетом https://acmp.ru/index.asp?main=task&id_task=41
+15)  Домашнее задание https://acmp.ru/index.asp?main=task&id_task=9
+16)  Свадьба https://acmp.ru/index.asp?main=task&id_task=174
+17)  Список https://acmp.ru/index.asp?main=task&id_task=444
+Структуры
+18)  Баланс скобок https://acmp.ru/index.asp?main=task&id_task=899
+19)  Баллы https://acmp.ru/index.asp?main=task&id_task=945
+20)  Проверка орфографии – 2 https://acmp.ru/index.asp?main=task&id_task=997
+21)  Выборы жрецов https://acmp.ru/index.asp?main=task&id_task=254
+22)  Развлечения с измерителем https://acmp.ru/index.asp?main=task&id_task=385
+Графы
+23)  Алгоритм Дейкстры https://acmp.ru/index.asp?main=task&id_task=132
+24)  Алгоритм Форда-Беллмана https://acmp.ru/index.asp?main=task&id_task=138
+25)  Издевательство https://acmp.ru/index.asp?main=task&id_task=126
+26)  Дерево https://acmp.ru/index.asp?main=task&id_task=141
+27)  Цикл отрицательного веса https://acmp.ru/index.asp?main=task&id_task=140
+28)  Друзья https://acmp.ru/index.asp?main=task&id_task=150
+29)  Путь https://acmp.ru/index.asp?main=task&id_task=127
+30)  Эволюция https://acmp.ru/index.asp?main=task&id_task=784
+31)  Светофорчики https://acmp.ru/index.asp?main=task&id_task=124
