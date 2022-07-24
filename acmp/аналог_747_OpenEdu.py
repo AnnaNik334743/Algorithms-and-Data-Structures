@@ -1,6 +1,3 @@
-# пока это максимально оптимальный код, который доходит до 37 теста на OpenEdu
-# нужно переписывать на плюсы, иначе ему не поможешь
-
 def prefix_function(s):
     p = [0] * (len(s) + 1)
     i, j = 1, 0
@@ -38,7 +35,7 @@ for begin in range(1, len(init_string) + 1):
         end = (len_of_curr_str // cycle_length) * cycle_length + begin - 1
 
         if num_of_repetitions == 1:
-            # its just a symbol, not a cycle
+            # it's just a symbol, not a cycle
             option = dp[end - 1]
             option += 1 if dp_labels[end - 1] == 'n' else 2  # if it is a cycle, we add +
             if option <= dp[end]:
@@ -90,7 +87,7 @@ while to_here != 0:
     path.append([substr, (to_here - we_come_from) // cycle_length, tag])
     to_here = we_come_from
 
-path = path[::-1]
+path = path[::-1]  # i tried putting the following cycle inside the previous one, but for some reason it works longer
 answer = ""
 
 for i, item in enumerate(path):
